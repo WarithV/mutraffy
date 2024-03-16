@@ -1,11 +1,11 @@
 {
-    "name": "mutraffy",
-    "short_name": "mutraffy",
+    "name": "MU Traffy",
+    "short_name": "MU Traffy",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#FAF8F6",
     "theme_color": "#FAF8F6",
-    "description": "MU TraffyFondue",
+    "description": "Uni problems interactive map.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
