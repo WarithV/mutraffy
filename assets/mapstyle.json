@@ -3,7 +3,15 @@
     "elementType": "geometry",
     "stylers": [
       {
-        "color": "#faf1ee"
+        "color": "#f9efeb"
+      }
+    ]
+  },
+  {
+    "elementType": "geometry.stroke",
+    "stylers": [
+      {
+        "color": "#e9bcaf"
       }
     ]
   },
@@ -68,7 +76,6 @@
       }
     ]
   },
-
   {
     "featureType": "poi",
     "elementType": "labels.text.fill",
